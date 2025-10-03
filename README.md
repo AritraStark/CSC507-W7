@@ -1,1 +1,2 @@
-This is a codebase for week 7 evaluation in CSC507
+# CSC507-W7
+Programming lab CSC 507 week 7 evaluation codebase
